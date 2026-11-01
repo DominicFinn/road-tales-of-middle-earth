@@ -33,13 +33,16 @@ Original characters, places and threads from the Road Tales so far. Canon charac
 
 ### Cuiviénen and the East, before the Sun (Rúmil's story)
 
-- **Rúmil**: hunter, restless, brave. Stays when Oromë leads the host West, to rescue the Elves taken north. Carries Oromë's horn. Taught by Ulmo through the waters. Founds the river-folk.
-- **Elenwë**: Rúmil's sister, the singer, gifted with foresight. Goes West with the host. Foretells they'll meet again. Gave Rúmil a carved bird, which he gave back to her as a promise.
+- **Rúmil**: hunter, restless, brave. Stays when Oromë leads the host West, to rescue the Elves taken north. Carries Oromë's horn. Taught by Ulmo through the waters. Founds the river-folk. Leads them out of Frár's hall and west into Doriath, where he finds Elenwë.
+- **Elenwë**: Rúmil's sister, the singer, gifted with foresight. Set out West with the host but stayed in Beleriand and became a handmaiden of Queen Melian, singing in her choir in Menegroth. Foretold they'd meet again, and kept the carved bird until they did. Gave it back to Rúmil in Menegroth.
 - **Tarvo**: Rúmil's childhood friend, rescued from the Black Rider's cage. Goes West.
 - **Lindo**: young Elf freed from the first holding-pit. Scout. Loves the stories of the West. First to sing with the Dwarves.
 - **Nessa**: older, quiet Elf freed from the pit. Asks the hard questions.
-- **Frár**: the first Dwarf the river-folk meet, a smith who sings at his forge. The song of Oromë is sung into his armour and axe. Perhaps the later Frár of Moria was named after him.
-- **Durlin**: master smith of Frár's hall, jealous of Frár's armour and of the Elves knowing the deep names.
+- **Frár**: the first Dwarf the river-folk meet, a smith who sings at his forge. The song of Oromë is sung into his armour and axe. Chooses friendship with the Elves over his own hall and leaves with them, on condition no Dwarf is hurt. Durlin taught him smithing. Perhaps the later Frár of Moria was named after him.
+- **Durlin**: master smith of Frár's hall, jealous of Frár's armour and of the Elves knowing the deep names. Planned to seal the arch at the spring meltwater and keep the Elves, and Frár, in the hall for good.
+- **Thrandur**: old keeper of the great doors in Frár's hall. Sided with Durlin, then let the river-folk go because Lindo sang the cracks out of a pillar he'd patched for forty years. Sealed the arch only after they were through.
+- **Nali**: young Dwarf who left with Frár. Nearly ran from the visions in the Girdle of Melian. One of five Dwarves who followed Frár.
+- **The march-warden**: unnamed Sindarin warden under Beleg, sent by Melian to meet the singers at her border. Had heard rumours of Dwarves in the eastern hills but never seen one.
 
 ## Places
 
@@ -52,7 +55,10 @@ Original characters, places and threads from the Road Tales so far. Canon charac
 - **The Red Hills**: Borin's people's hold, east of the ice.
 - **The ravine of thorns**: north of Cuiviénen, where Rúmil and Elenwë first drove back the Black Rider with song.
 - **The cave of the false song**: at the foot of the northern mountains, where a servant of Melkor sang captives into sitting still.
-- **Frár's hall**: a Dwarf-hold where these Dwarves woke, reached by a river that vanishes into the mountainside.
+- **Frár's hall**: a Dwarf-hold where these Dwarves woke, reached by a river that vanishes into the mountainside. Its arch is now sealed by a great stone.
+- **The western pass**: a narrow pass over the mountains, so tight the Dwarves had to turn sideways, that Ulmo's water led the river-folk through into Beleriand.
+- **The Girdle of Melian**: the river-folk sang their way in with a song of searching and finding, longing and friendship. The wood showed each of them their fears, then the hope beneath.
+- **Menegroth**: where Rúmil found Elenwë in a choir in the lower caves.
 
 ## Things that exist
 
@@ -65,10 +71,7 @@ Original characters, places and threads from the Road Tales so far. Canon charac
 ## Open threads
 
 - **The Blue Wizards' pact**: gather allies from every people and meet at Darun's village on the Sea of Rhûn in a year. Alatar went south to the Sun-King, who serves Sauron for a promise of eternal life, with the desert raider Hazad, the Sun-King's former general.
-- **Rúmil's road** (planned by the player):
-  1. Durlin's jealousy grows. Some Dwarves want the Elves to stay forever and stop their mission.
-  2. The river-folk escape one night, taking some Dwarf friends (Frár among them, presumably) with them.
-  3. They never find Angband, but in time cross the mountains into Beleriand.
-  4. In Menegroth, Rúmil finds Elenwë, who stayed in Beleriand and became a handmaiden of Queen Melian.
+- **Rúmil's road**: the player's plan is now played through. The river-folk escaped Frár's hall with Frár and five Dwarves, never found Angband, crossed into Beleriand and reached Menegroth, where Rúmil found Elenwë. Next: what Melian and Thingol make of the river-folk and the Dwarves.
 - **Continuity to settle**: in Story 3, Rúmil is blind and living alone in the East in the Second Age, and says his sister "went south to the lakes when I was blinded". Rúmil's own story sends him to Beleriand to find her in Menegroth. Still to work out: how he is blinded, how he ends up back in the East, and what that line about his sister means.
+- **Continuity to settle**: in canon, Dwarves of Belegost helped build Menegroth before the Sun, so a Doriath warden who's never seen a Dwarf is a stretch. It could work if he's young, posted to the far eastern marches, or if these eastern Dwarves look different enough from the Blue Mountain Dwarves to seem new.
 - **The Easterlings' warning**: Ulgar's people crossing the mountains, leading to Ulfang's betrayal at the Nirnaeth (canon).

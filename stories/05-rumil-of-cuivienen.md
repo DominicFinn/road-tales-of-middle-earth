@@ -126,8 +126,76 @@ Durlin had been the finest smith in the hall. Now everyone wanted what Frár had
 
 Some Dwarves began to nod.
 
+## Chapter three: the road west
+
+### The voice in the water
+
+The thaw came late that year. The forges burned day and night, because every Dwarf who'd seen Frár's armour wanted something sung into their own work, and the Elves sang until they were hoarse. But the hall was cooling towards them in small ways. The Dwarves stopped thumping the benches after a song. A door in the lower mines that Lindo had used a hundred times was locked, and nobody could say why. Nessa started sitting where she could see the great doors.
+
+One evening Rúmil sat by the water channel that ran past Durlin's forge with his fingers in the current, and the water brought him voices.
+
+> *The player asked: what did he hear?*
+
+Durlin was talking low with old Thrandur, keeper of the great doors. The Elves would want to leave with the spring meltwater, Durlin said, so that was when they'd act. The arch could be sealed with a single stone, and once it was down it was down for good. "They can sing all they like to a mountain." Thrandur asked about Frár, who would surely go with them. The hammering stopped. "Then Frár stays too. One way or another."
+
+### The escape
+
+> *The player chose: Rúmil tells the group in secret and confides in Frár. They plan to escape by night without unrest. Frár insists no Dwarf is hurt, and won't harm one of his own, however upset he is.*
+
+Rúmil told Nessa and Lindo on the upper galleries, where the waterfalls drowned every voice. Lindo went white. Nessa only nodded, as if she'd been waiting for it. Then they told Frár at his forge. He was quiet a long time. "Durlin taught me to hold a hammer. I'll go with you. But not one Dwarf is to be hurt. Not even him."
+
+Word went round the river-folk in whispers in the Elvish tongue, which few Dwarves had bothered to learn. Packs were filled a little at a time. On the night of the first great meltwater, when the river was too loud for anyone to hear footsteps, they went down the long stair to the arch, Frár first with his shimmering mail hidden under his cloak.
+
+At the foot of the stair a lantern was burning. Thrandur stood alone by the sealing stone with his hand on the lever.
+
+> *The player left it to the storyteller.*
+
+Thrandur had waited three nights for them. Durlin said the Elves took more than they gave, he said, but he'd been there when Lindo sang the cracks out of the east pillar, a pillar he'd been patching for forty years. He took his hand off the lever. "Go, before I think better of it. I'll tell Durlin the river was too loud and I fell asleep at my post. It won't be the first time he's believed that of me."
+
+The river-folk waded out through the arch into the starlight, and five more Dwarves who'd chosen to follow Frár came with them. Long after they were safely through, Rúmil heard the slow grinding of the stone as the arch sealed behind them.
+
+### The girdle of Melian
+
+> *The player's direction: the water leads them through a pass in the mountains and down towards Beleriand, into the Girdle of Melian.*
+
+They walked until the stars paled over the western mountains. Rúmil put the cracked horn to his ear, and the water said west. For weeks they climbed a pass so narrow the Dwarves had to turn sideways, and every night the horn said the same thing. Then they came over the last ridge and saw a wide green land of rivers and forests running off the edge of sight. "That's not a land," said Frár. "That's a whole world."
+
+They came down into great woods of beech and oak, and the woods would not let them in. Paths turned back on themselves. They found their own footprints from the morning. A mist rose that wasn't the river's, and when Rúmil asked the water to clear it, for the first time since Ulmo spoke to him the water didn't answer. Nessa touched a tree and pulled her hand back. "There's a song in this wood, older and stronger than anything we know." Lindo sat down in the moss. "So we've come all this way to be turned away at the door?"
+
+> *The player's direction: they sing a song of searching and finding, of longing and friendship. The wood sends visions. The Elves see the Dark Rider, then Oromë, and know the wood is friendly. The Dwarves are afraid, and Rúmil helps them understand. He sings the story of the escape, and how the Dwarves helped them.*
+
+Rúmil sang something new, a song of searching and finding, of longing for someone far away, and of friends who walk beside you when the road is long. The river-folk joined him, and the mist took shape. Out of it came the Black Rider from the ravine, hood turning towards them. Lindo cried out. But they kept singing, and the black horse turned white, the hood fell back, and there was Oromë with the northern lights behind him. The wood was showing them their own hearts, the fear first and the hope beneath it.
+
+The Dwarves saw their own visions: the lost miners who had followed the whispers, pale and silent among the trees. A young Dwarf, Nali, turned to run, and Rúmil caught his arm. "It's not a trap. It's a question. The wood is asking who we are." Then he sang the escape from the hall: Frár choosing friendship over his own people, Thrandur lifting his hand from the lever, the Dwarves walking out into the starlight beside the Elves. Frár rumbled along in the deep tongue, then the others. The pale miners bowed their heads and faded, and the mist parted on an open path.
+
+On it stood a grey-cloaked Elf with a lantern.
+
+> *The player's direction: a guard from Menegroth. He welcomes them, but he's never seen a Dwarf, so he's amazed and wary. There are rumours of something in the hills, but he knows no more than that.*
+
+He was one of Beleg's march-wardens, sent by the Queen to meet whoever was singing at her border. "You sang the wood open. Few can." Then his lantern fell on Frár, and he stepped back with his hand going to his bow. There was talk in the eastern marches, he said, of short strong folk hammering in the deep places. He'd taken it for a tale to frighten the young. "Frár, son of nobody you'll have heard of," said the Dwarf. "And I'm no tale, lad." Rúmil told the warden they were friends who'd chosen the Elves over their own hall. The warden lowered his hand and bowed, a little stiffly. "Then you're welcome under the trees, Master Frár. Though the King's people will stare."
+
+### Menegroth
+
+He led them along paths that opened just ahead and closed just behind, over a stone bridge across a dark, fast river, to the doors of Menegroth, the Thousand Caves.
+
+> *The player's direction: more Elves and more civilisation than Rúmil thought possible. Beautiful works of art, people singing in groups, deeper and larger than anything he'd imagined.*
+
+The hall beyond was so vast its far end was lost in golden light. Pillars carved as beech trees, silver lanterns in their stone branches, carved birds and real birds singing back at them, fountains in white marble, tapestries of stories Rúmil didn't know, among them a king and a lady meeting in a wood. And Elves everywhere, more than had ever lived at Cuiviénen, while somewhere deep in the caves a choir sang in harmonies that made his own songs feel like a child's humming.
+
+Lindo wept. Nessa whispered, "This is what they made, while we were hiding in the dark." Frár ran his fingers over a carved pillar. "Whoever cut this knew the stone's true name." Rúmil couldn't speak. He'd spent his life thinking the river-folk were most of what was left of his people.
+
+Then one voice rose alone above the choir, and he knew it.
+
+> *The player chose: he turns, laughs, and runs to his sister.*
+
+His laugh turned every head in the hall. He ran past the fountains and down into a lower cave where the choir stood in a ring of lantern light, and the voices dropped away until only hers was left, and then that stopped too. Elenwë was in grey and pale blue like the Queen's maidens, silver in her hair, older and wiser, with exactly the same eyes. They met halfway across the floor and held on until neither could breathe.
+
+She drew out the carved bird, worn smooth with years of holding. "I told you. Under the same stars, before the world changes." He said she hadn't gone West. "No." She glanced up at a tall woman in white watching from the stair, her eyes full of an old, deep light. "I found someone here who needed me more. And I knew if I waited, you'd come."
+
+She pressed the bird into his hand and closed his fingers around it.
+
 ## Where we left off
 
-Durlin's whispers are spreading. **Open question: what does Rúmil notice first?**
+Rúmil has found Elenwë in Menegroth, with Melian watching from the stair. The river-folk and Frár's five Dwarves are in the Thousand Caves. **Open question: what happens now the river-folk are in Doriath, and what does Melian want with them?**
 
-Planned road ahead (from the player): some Dwarves want the Elves to stay forever and stop their mission. The river-folk escape one night, with Dwarf friends who come with them. They never find Angband. They cross the mountains into Beleriand, and in Menegroth Rúmil finds Elenwë, a handmaiden of Queen Melian.
+Still to come from the player's plan: how Rúmil is blinded, and how he ends up back in the East (see Continuity to settle in the story bible).
