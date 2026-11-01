@@ -194,8 +194,28 @@ She drew out the carved bird, worn smooth with years of holding. "I told you. Un
 
 She pressed the bird into his hand and closed his fingers around it.
 
+### Thingol and Melian's warning
+
+> *The player's direction: this is early Menegroth, before the Dwarves of Belegost came, just the beginnings of the halls. Frár and his friends are the first Dwarves to help build it, and will later go back to their kin in Belegost and tell them of Queen Melian. Thingol is glad to receive them, and the Dwarves are eager to give back with the axe and the tools the Elves helped them make. But when they tell of the jealousy in their hall, Melian foresees it will happen again. She doesn't know what a Silmaril is, but she knows something like it is coming.*
+
+Thingol received them in a cave that was still half rough stone, with torches where silver lanterns would one day hang. When he saw Frár he laughed with delight, and asked straight away whether stone like this could be shaped into a hall worthy of a king. Frár ran his hand along the rock and grinned. "Give us time, and tools, and a few of your singers, and it'll be the wonder of the world." The Dwarves set to work that season, cutting with the axe that sang like a horn and the tools the Elves had sung the deep names into. It was their way, they said, of giving back.
+
+At the feast that night Frár told the King and Queen the whole tale: Durlin's jealousy, the sealed arch, old Thrandur at the lever. Thingol frowned. Melian went very still, and her eyes grew distant the way Elenwë's once had by the water at Cuiviénen.
+
+"Jealousy over a made thing," she said softly. "It came once, and it will come again. One day a treasure will be brought into these halls, brighter than anything you've made, Master Frár. Dwarves and Elves will both desire it, and that desire will cost this kingdom dearly." For a moment there was sorrow in her face as she looked at Thingol. Then it passed. "But not tonight."
+
+Frár swore that he and his would only ever bring good to this house, and that when the first halls were finished he'd go west to the mountains, find his kin in Belegost and tell them of the Queen who saw the future.
+
+> *The player's direction: nobody can really make sense of her words, so nobody takes much note, and they carry on.*
+
+A treasure brighter than anything Frár could make? There was no such thing in all the world. Thingol called for more wine, the harpers began again, and by morning the Queen's words had faded like a dream half remembered.
+
+So the work went on. Season after season the Dwarves cut deeper into the hill, and the Elves sang the stone into beech trees and birds. Rúmil walked the woods with Elenwë, and they told each other everything that had happened in the long years apart. For a while, all was quiet in Doriath.
+
+> *The player chose: that's the end of this part of the story.*
+
 ## Where we left off
 
-Rúmil has found Elenwë in Menegroth, with Melian watching from the stair. The river-folk and Frár's five Dwarves are in the Thousand Caves. **Open question: what happens now the river-folk are in Doriath, and what does Melian want with them?**
+This part ends quietly in Doriath. Rúmil and Elenwë are together again, the river-folk have settled, and Frár and his five Dwarves are delving the first halls of Menegroth, with Frár planning to go to Belegost when they're done. Melian's warning hangs over it all. **Open question: where does the next part of Rúmil's story begin?**
 
-Still to come from the player's plan: how Rúmil is blinded, and how he ends up back in the East (see Continuity to settle in the story bible).
+Still to come: how Rúmil is blinded, and how he ends up back in the East in the Second Age (see Continuity to settle in the story bible).

@@ -38,11 +38,11 @@ Original characters, places and threads from the Road Tales so far. Canon charac
 - **Tarvo**: Rúmil's childhood friend, rescued from the Black Rider's cage. Goes West.
 - **Lindo**: young Elf freed from the first holding-pit. Scout. Loves the stories of the West. First to sing with the Dwarves.
 - **Nessa**: older, quiet Elf freed from the pit. Asks the hard questions.
-- **Frár**: the first Dwarf the river-folk meet, a smith who sings at his forge. The song of Oromë is sung into his armour and axe. Chooses friendship with the Elves over his own hall and leaves with them, on condition no Dwarf is hurt. Durlin taught him smithing. Perhaps the later Frár of Moria was named after him.
+- **Frár**: the first Dwarf the river-folk meet, a smith who sings at his forge. The song of Oromë is sung into his armour and axe. Chooses friendship with the Elves over his own hall and leaves with them, on condition no Dwarf is hurt. Durlin taught him smithing. With his five Dwarves, the first to help delve Menegroth, before the Dwarves of Belegost came. Plans to go to his kin in Belegost and tell them of Melian. Perhaps the later Frár of Moria was named after him.
 - **Durlin**: master smith of Frár's hall, jealous of Frár's armour and of the Elves knowing the deep names. Planned to seal the arch at the spring meltwater and keep the Elves, and Frár, in the hall for good.
 - **Thrandur**: old keeper of the great doors in Frár's hall. Sided with Durlin, then let the river-folk go because Lindo sang the cracks out of a pillar he'd patched for forty years. Sealed the arch only after they were through.
 - **Nali**: young Dwarf who left with Frár. Nearly ran from the visions in the Girdle of Melian. One of five Dwarves who followed Frár.
-- **The march-warden**: unnamed Sindarin warden under Beleg, sent by Melian to meet the singers at her border. Had heard rumours of Dwarves in the eastern hills but never seen one.
+- **The march-warden**: unnamed Sindarin warden under Beleg, sent by Melian to meet the singers at her border. Had heard rumours of Dwarves in the eastern hills but never seen one, since this is before any Dwarves had come to Doriath.
 
 ## Places
 
@@ -58,7 +58,7 @@ Original characters, places and threads from the Road Tales so far. Canon charac
 - **Frár's hall**: a Dwarf-hold where these Dwarves woke, reached by a river that vanishes into the mountainside. Its arch is now sealed by a great stone.
 - **The western pass**: a narrow pass over the mountains, so tight the Dwarves had to turn sideways, that Ulmo's water led the river-folk through into Beleriand.
 - **The Girdle of Melian**: the river-folk sang their way in with a song of searching and finding, longing and friendship. The wood showed each of them their fears, then the hope beneath.
-- **Menegroth**: where Rúmil found Elenwë in a choir in the lower caves.
+- **Menegroth**: in these stories, early Menegroth, before the Dwarves of Belegost. Only the first caves exist, part rough stone. Frár's Dwarves begin the delving, with Elvish singers shaping the stone into beech trees and birds. Where Rúmil found Elenwë in a choir in the lower caves.
 
 ## Things that exist
 
@@ -71,7 +71,8 @@ Original characters, places and threads from the Road Tales so far. Canon charac
 ## Open threads
 
 - **The Blue Wizards' pact**: gather allies from every people and meet at Darun's village on the Sea of Rhûn in a year. Alatar went south to the Sun-King, who serves Sauron for a promise of eternal life, with the desert raider Hazad, the Sun-King's former general.
-- **Rúmil's road**: the player's plan is now played through. The river-folk escaped Frár's hall with Frár and five Dwarves, never found Angband, crossed into Beleriand and reached Menegroth, where Rúmil found Elenwë. Next: what Melian and Thingol make of the river-folk and the Dwarves.
+- **Rúmil's road**: the player's plan is now played through. The river-folk escaped Frár's hall with Frár and five Dwarves, never found Angband, crossed into Beleriand and reached Menegroth, where Rúmil found Elenwë. Thingol welcomed them and set Frár's Dwarves to work on the halls. This part of the story ends quietly in Doriath.
 - **Continuity to settle**: in Story 3, Rúmil is blind and living alone in the East in the Second Age, and says his sister "went south to the lakes when I was blinded". Rúmil's own story sends him to Beleriand to find her in Menegroth. Still to work out: how he is blinded, how he ends up back in the East, and what that line about his sister means.
-- **Continuity to settle**: in canon, Dwarves of Belegost helped build Menegroth before the Sun, so a Doriath warden who's never seen a Dwarf is a stretch. It could work if he's young, posted to the far eastern marches, or if these eastern Dwarves look different enough from the Blue Mountain Dwarves to seem new.
+- **Melian's warning**: hearing of Durlin's jealousy, Melian foresaw that a treasure brighter than anything Frár could make would one day come into Menegroth, and Dwarves and Elves would both desire it, at great cost to the kingdom. Foreshadows the Silmaril, the Nauglamír and the sack of Menegroth (canon). Nobody understood it at the time and it was forgotten.
+- **Frár and Belegost**: Frár's Dwarves were the first to help build Menegroth. When Frár reaches Belegost and tells of Melian, that could be how the Dwarves of Belegost come to Doriath in canon.
 - **The Easterlings' warning**: Ulgar's people crossing the mountains, leading to Ulfang's betrayal at the Nirnaeth (canon).
