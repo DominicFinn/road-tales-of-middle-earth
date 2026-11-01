@@ -49,3 +49,4 @@ The rules ask Claude to write each story into this repo and commit it as you go,
 ## A note on Tolkien
 
 This is an unofficial fan project, made for fun and not for profit. It isn't affiliated with or endorsed by the Tolkien Estate, Middle-earth Enterprises or anyone else. Middle-earth, its characters and places belong to their owners. The original characters and story text in this repo are shared under [CC BY-NC 4.0](LICENSE).
+# road-tales-of-middle-earth
